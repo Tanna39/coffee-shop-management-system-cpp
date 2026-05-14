@@ -74,6 +74,8 @@ It simulates a real-world coffee shop workflow including user authentication, or
 ## 📂 Project Structures
 
 main.cpp → Main source code
+receipts.txt → Stores purchased data (auto-generated)
+users.txt → Stores user data (auto-generated)
 
 🚀 How to Run the Project:
 
@@ -102,8 +104,11 @@ Password: 1234
 👨‍💻 Developer Information
 
 Name: Nazia Afrin Tanna
+
 Language: C++
+
 Project Type: University Academic Project
+
 Domain: Software Engineering / System Design
 
 ⭐ Acknowledgement
