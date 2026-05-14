@@ -112,6 +112,7 @@ Project Type: University Academic Project
 Domain: Software Engineering / System Design
 
 ⭐ Acknowledgement
+
 This project was developed as part of academic learning to understand real-world system design using C++.
 
 If you like this project, feel free to ⭐ star the repository.
